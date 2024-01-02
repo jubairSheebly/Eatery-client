@@ -1,3 +1,2 @@
-# this is the UIU Restaurant
-
-- You can search food and Order food here
+# UIU Eatery
+* you can search food here and can order foodgi
